@@ -28,12 +28,11 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 
 ## Introduction
 
-In this jupyter notebook, I use a nerual network to predict if a funded company is going to be succesful based on the features of the dataset.
+This analysis is designed to predict whether a charitable application will be successful or not for Alphabet Soup. This is done by the model taking in our preprocessed data to make predictions based on the features and variance of the data.
 
 ## Dependencies
 
 ```
-python
 sklearn 
 pandas 
 tensorflow 
